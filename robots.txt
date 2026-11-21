@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanalake.github.io/fora-klinik-preview/sitemap.xml

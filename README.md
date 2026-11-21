@@ -1,2 +1,3 @@
-# fora-klinik-preview
-Fora Diş Kliniği web sitesi · canlı önizleme
+# Fora Diş Kliniği
+
+[Canlı önizleme](https://yanalake.github.io/fora-klinik-preview/)
